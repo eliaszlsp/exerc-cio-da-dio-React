@@ -57,7 +57,7 @@ const Register = () => {
                 <TextEnd>Ao clicar em "criar minha conta grátis", declaro que aceito as Políticas de Privacidade e os Termos de Uso da DIO.</TextEnd>
                 <Row>                  
                     <CriarText> Já tenho uma conta.</CriarText>
-                    <FazerLogin>{" "} Fazer login</FazerLogin>
+                    <FazerLogin href="/login">{" "} Fazer login</FazerLogin>
                 </Row>
                 </Wrapper>
             </Column>
